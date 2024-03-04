@@ -55,9 +55,6 @@ const LoginPage = () => {
           {errorMessage && (
             <p className="text-red-500 mt-2 text-center">{errorMessage}</p>
           )}
-
-          <button>Hellllo</button>
-          <button type="reset"></button>
         </form>
       </div>
     </div>
